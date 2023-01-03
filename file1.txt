@@ -1,0 +1,4 @@
+parsa	1	p
+amir	2	a
+ali	3	a
+mina	4	m
